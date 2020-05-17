@@ -7,7 +7,7 @@
 		let self=this;
 		let gameCycle = null;
 		let player = null;
-
+   
 
 	/* ------- Создание игровых уровней ------- */
 		
